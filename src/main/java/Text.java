@@ -8,5 +8,6 @@ public class Text {
 
         System.out.println("Hello world");
         System.out.println("曾家文是傻逼");
+        System.out.println("你愿意做我的儿子吗");
     }
 }
